@@ -1,0 +1,6 @@
+# Flask
+flask
+# Flask Restful
+flask-restful
+# Flask Rest API
+flask-rest-api
