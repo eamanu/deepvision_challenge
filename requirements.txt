@@ -1,6 +1,32 @@
-# Flask
-flask
-# Flask Restful
-flask-restful
-# Flask Rest API
-flask-rest-api
+aniso8601==8.0.0
+apispec==3.2.0
+backcall==0.1.0
+Click==7.0
+decorator==4.4.1
+Flask==1.1.1
+flask-rest-api==0.17.1
+Flask-RESTful==0.3.7
+greenlet==0.4.15
+holidays==0.9.12
+ipython==7.10.2
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi==0.15.2
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+marshmallow==3.3.0
+msgpack==0.6.2
+parso==0.5.2
+pexpect==4.7.0
+pickleshare==0.7.5
+prompt-toolkit==3.0.2
+ptyprocess==0.6.0
+Pygments==2.5.2
+pynvim==0.4.0
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.13.0
+traitlets==4.3.3
+wcwidth==0.1.7
+webargs==5.5.2
+Werkzeug==0.16.0
