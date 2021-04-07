@@ -28,5 +28,5 @@ pytz==2019.3
 six==1.13.0
 traitlets==4.3.3
 wcwidth==0.1.7
-webargs==5.5.2
+webargs==5.5.3
 Werkzeug==0.16.0
