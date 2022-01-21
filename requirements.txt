@@ -8,7 +8,7 @@ flask-rest-api==0.17.1
 Flask-RESTful==0.3.7
 greenlet==0.4.15
 holidays==0.9.12
-ipython==7.10.2
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.15.2
